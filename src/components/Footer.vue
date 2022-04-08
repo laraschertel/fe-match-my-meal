@@ -8,7 +8,7 @@
             <router-link to="/" > Main Page </router-link>
             </div>
             <div class=link>
-            <router-link to="/recipeList" > Recipe's List </router-link>
+            <router-link to="/recipeList" > Recipes List </router-link>
             </div>
         </div>
          <p> Match my meal! </p>
