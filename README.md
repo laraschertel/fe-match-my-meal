@@ -14,10 +14,14 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
+### Sources:
 ```
-npm run lint
+https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2980s
+
+https://www.youtube.com/watch?v=hDC_kNlzz6c
+
+https://www.youtube.com/watch?v=HorXomQrOi8&t=624s
+
 ```
 
 ### Customize configuration
